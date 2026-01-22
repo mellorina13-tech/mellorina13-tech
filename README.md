@@ -12,19 +12,11 @@ A solution-oriented developer focusing on building high-performance web ecosyste
   
 # Category | Technologies 
 
-| **Frontend & Web** | `Next.js` `React` `Tailwind CSS` `TypeScript` |
-| **Backend & Database** | `Supabase` `NeonDB` `Render` `PostgreSQL` |
-| **Mobile & App Dev** | `Android Development` `React Native` `API Integration` |
-| **Game & Interactive** | `Godot` `Phaser.js` `Lua` `State Management` |
-| **AI & Tooling** | `LLM Integration (GLM/OpenAI)` `Vercel` `GitGuardian` `CI/CD` |
-
----
-### 📫 Connect with Me
-
-<p align="left">
-  
-  <a href="mailto:mellorina13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+ **Frontend & Web** `Next.js` `React` `Tailwind CSS` `TypeScript` 
+ **Backend & Database**  `Supabase` `NeonDB` `Render` `PostgreSQL` 
+ **Mobile & App Dev**  `Android Development` `React Native` `API Integration` 
+ **Game & Interactive** `Godot` `Phaser.js` `Lua` `State Management` 
+ **AI & Tooling** `LLM Integration (GLM/OpenAI)` `Vercel` `GitGuardian` `CI/CD` 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -34,3 +26,10 @@ A solution-oriented developer focusing on building high-performance web ecosyste
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📫 Connect with Me
+
+<p align="left">
+  
+  <a href="mailto:mellorina13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
