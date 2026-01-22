@@ -12,11 +12,11 @@ A solution-oriented developer focusing on building high-performance web ecosyste
   
 # Category | Technologies 
 
- **Frontend & Web** `Next.js` `React` `Tailwind CSS` `TypeScript` 
- **Backend & Database**  `Supabase` `NeonDB` `Render` `PostgreSQL` 
- **Mobile & App Dev**  `Android Development` `React Native` `API Integration` 
- **Game & Interactive** `Godot` `Phaser.js` `Lua` `State Management` 
- **AI & Tooling** `LLM Integration (GLM/OpenAI)` `Vercel` `GitGuardian` `CI/CD` 
+ **Frontend & Web**: `Next.js` `React` `Tailwind CSS` `TypeScript` 
+ **Backend & Database**:  `Supabase` `NeonDB` `Render` `PostgreSQL` 
+ **Mobile & App Dev**:  `Android Development` `React Native` `API Integration` 
+ **Game & Interactive**: `Godot` `Phaser.js` `Lua` `State Management` 
+ **AI & Tooling**: `LLM Integration (GLM/OpenAI)` `Vercel` `GitGuardian` `CI/CD` 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
