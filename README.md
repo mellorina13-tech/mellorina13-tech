@@ -1,7 +1,7 @@
 Software Engineer & Digital Product Architect
 
 A solution-oriented developer focusing on building high-performance web ecosystems, cross-platform mobile applications, and interactive digital experiences. I bridge the gap between complex backend logic and seamless frontend interactions.
- 🛠 Tech Stack & Mastery
+ Tech Stack & Mastery
 
 | Category | Technologies |
 | :--- | :--- |
@@ -22,9 +22,11 @@ A solution-oriented developer focusing on building high-performance web ecosyste
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  
+  <a href="mailto:mellorina13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-*"Turning complex logic into elegant, scalable digital reality."*
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
