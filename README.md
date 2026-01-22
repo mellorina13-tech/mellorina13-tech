@@ -1,4 +1,4 @@
-Software Engineer & Digital Product Architect
+# Software Engineer & Digital Product Architect
 
 A solution-oriented developer focusing on building high-performance web ecosystems, cross-platform mobile applications, and interactive digital experiences. I bridge the gap between complex backend logic and seamless frontend interactions.
 
